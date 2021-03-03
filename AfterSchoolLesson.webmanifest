@@ -1,0 +1,15 @@
+{
+    "name": "After School Lesson CW3",
+    "short_name": "after_school_lesson_cw3",
+    "description": "my after school lesson CW3",
+    "icons": [
+       {
+        "src": "images/product-maths.png",
+        "sizes": "512x512",
+        "type": "image/png"
+       }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#B12A34"
+ }
